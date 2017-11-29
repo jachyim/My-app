@@ -1,5 +1,5 @@
 {
-  "name": "campaign-admin-test",
+  "name": "campaign-admin",
   "version": "0.0.1",
   "description": "Sample campaign admin page using sb-admin-2 template and react.js",
   "main": "js/app.jsx",
