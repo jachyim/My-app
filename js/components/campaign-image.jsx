@@ -15,7 +15,7 @@ var CampaignImage = React.createClass({
         return (
             <div className="panel panel-default">
                 <div className="panel-heading">
-                    <i className="fa fa-file-image-o fa-fw"></i> Compaign Image
+                    <i className="fa fa-file-image-o fa-fw"></i> Obrazek kampaně
                 </div>
                 <div className="panel-body">
                     <img src={campaign.image} />
